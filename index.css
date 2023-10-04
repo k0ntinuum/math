@@ -1,9 +1,8 @@
 
 
 h1 {
-    font-family: 'Xanh Mono', monospace;
-    
-    font-size: 30pt;
+    font-family: 'Barriecito', cursive;
+    font-size: 50pt;
 }
 
 p {
@@ -14,5 +13,5 @@ p {
 a {
     font-family: 'Xanh Mono', monospace;
     font-style: italic;
-    font-size: 15pt;
+    font-size: 30pt;
 }
